@@ -1,4 +1,4 @@
-This rep contains the r code for the paper.
+This repository contains the r code for the paper.
 
 A corresponding visualization tool:
 https://shiny.parse-health.org/ht-phewas/ 
